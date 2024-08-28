@@ -122,7 +122,7 @@ Torches ```0```
 |Background| Aberrant Mind |
 |Race| Human |
 |Alignment | Slightly Chaotic|
-|AC| 13 |
+|AC| 11 |
 |Speed| 30|
 | Weight | 135 |
 | Height | 5'8" |

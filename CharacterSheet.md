@@ -1,6 +1,6 @@
 # Dungeons and Dragons Character Sheet
 
-Money: ```60``` GP
+Money: ```80``` GP
 
 Sorcery Points Cost: ```7```
 
@@ -14,7 +14,7 @@ Spell Save DC: ```18```
 
 Underwater: ```3``` Minutes
 
-Rations ```2```
+Rations ```6```
 
 Exhaustion```0```
 
@@ -57,7 +57,61 @@ Torches ```0```
 | 5D6      |
 
 ## HP
-30/30
+
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    var table = document.getElementById('conditional-table');
+    var rows = table.getElementsByTagName('tr');
+
+    for (var i = 1; i < rows.length; i++) {
+      var cells = rows[i].getElementsByTagName('td');
+
+      // Get the Max HP value from the first column
+      var maxHP = parseFloat(cells[0].textContent);
+
+      // Get the Current HP value from the second column
+      var currentHP = parseFloat(cells[1].textContent);
+
+      // If the Current HP is less than half of the Max HP, apply red color
+      if (currentHP < (maxHP / 2)) {
+        cells[1].classList.add('red');
+      }
+    }
+  });
+</script>
+
+<style>
+    table {
+        border-collapse: collapse;
+        width: 100%;
+    }
+    th, td {
+        border: 1px solid black;
+        padding: 8px;
+        text-align: left;
+    }
+    tr:nth-child(even) {
+        background-color: #f2f2f2;
+    }
+    .red {
+        color: red;
+    }
+</style>
+
+<table id="conditional-table">
+  <thead>
+    <tr>
+      <th>Max HP</th>
+      <th>Current HP</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>6</td>
+      <td>30</td> <!-- Red if Current HP is less than half of Max HP -->
+    </tr>
+  </tbody>
+</table>
 
 ## Basics
 

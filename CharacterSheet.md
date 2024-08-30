@@ -16,7 +16,7 @@ Underwater: ```3``` Minutes
 
 Rations ```6```
 
-Exhaustion```0```
+Exhaustion```2```
 
 Sorcery Point: ```6```
 [Help me!!](https://roll20.net/compendium/dnd5e/Sorcerer#conten)
@@ -47,6 +47,10 @@ Torches ```0```
   - Item is spell fire glove instead of missing deal half on cantrips. (Attuned)
 - Dominate Beast (1x use)
 - Bear Demon Mask : gives me +prof on con saves, dex saves, strength and con : boosts all to 16 | 100% know there is a sinister presence that will possess if I put it on... I may not have the self to use it how it should anymore...
+- Javelin of Lightning
+- pickling agents for 3 Silver pieces
+- 1 greater health potion
+- **Potion of invisibility** tentacles ready in 7 days. (1/7)
 
 | Inspiration |  
 |:--:         |
@@ -107,7 +111,7 @@ Torches ```0```
   </thead>
   <tbody>
     <tr>
-      <td>6</td>
+      <td>25</td>
       <td>30</td> <!-- Red if Current HP is less than half of Max HP -->
     </tr>
   </tbody>
@@ -174,12 +178,13 @@ Torches ```0```
 
 Link: [Weapons](http://dnd5e.wikidot.com/weapons)
 
-| Weapon | ATK Bonus| Die  | Damage Type |
-|--------|-----------|-|-------------|
-| Light Cross | +4   | 1D8 | Piercing |
-| Two daggers |+1 | 1D4 | Piercing |
-| Scimitar | x |  1d6 | Slashing |
-| +1 Axe |  x  | x    | extra damage if below half health        |
+| Weapon | ATK Bonus| Die  | Damage Type | In Hand | 
+|--------|-----------|-|-------------|---|
+| Light Cross | +4   | 1D8 | Piercing |N/A |
+| Two daggers |+1 | 1D4 | Piercing | N/A|
+| Scimitar | x |  1d6 | Slashing |N/A |
+| +1 Axe |  x  | x    | extra damage if below half health | N/A |
+| Javelin of Lightning  | | 4D6 | Lightning | No |
 
 ### Spells
 
@@ -187,9 +192,11 @@ Link: [Weapons](http://dnd5e.wikidot.com/weapons)
   - 1. Ice Knife: [Help Me!](http://dnd5e.wikidot.com/spell:ice-knife) | 1d10 Piercing
   - 2. Thunderwave [Help Me!](http://dnd5e.wikidot.com/spell:thunderwave) : 2d8 thunder damage
   - 4. Witch Bolt [Help Me!](http://dnd5e.wikidot.com/spell:witch-bolt) : 1d12 - Concentration
+  - 5. Hunter's Mark [Help Me!](https://roll20.net/compendium/dnd5e/Hunter's%20Mark#content): 1d6 Divination 
 - 2nd Level Spells
   - 1. Flaming Sphere 2d6 on failed save! [Help Me!](https://roll20.net/compendium/dnd5e/Flaming%20Sphere#content)
   - 2. Darkness : [Help Me!](http://dnd5e.wikidot.com/spell:darkness)
+  - 3. Misty Step (one use per day) [Help Me!](https://roll20.net/compendium/dnd5e/Misty%20Step#content)
 - 3rd Level Spells
   - 1. Fireball 8d6 fire damage [Help Me!](http://dnd5e.wikidot.com/spell:fireball)
   - 2. Psionic Blast : 5d8 force damage on failed save [Help me!](http://dnd5e.wikidot.com/spell:psionic-blast)
@@ -211,7 +218,7 @@ Primal Savagery - 1d10 [Help Me!](https://dnd5e.wikidot.com/spell:primal-savager
 
  | Level 1 (of 4)| Level 2 (of 3)|Level 3 (of 2)|  
 |:-------------:|:-------:|:---:|
-|               |         |     |
+| 1              |         | 1    |
 
 ### Other Proficiencies & Languages
 
@@ -307,4 +314,8 @@ Fire is a good choice against michonid, but avoid all the spores.
 -> Bear mask greatly improves the strength but is also super evil. 
 -> Sword accept gold 1:1 adds +1 damage and changes to magic radiant damage 
 -> We are at day 10. 
+300 years ago a women war monger spread the scent of alvernous who did not praise her name. She was slain by a friend of us... Agamemnon.
+->Verge between us and the Micheonid.
+
+**Fey touched feat. **
 ```
